@@ -69,9 +69,9 @@
             this.label3.Location = new System.Drawing.Point(59, 36);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(225, 19);
+            this.label3.Size = new System.Drawing.Size(244, 19);
             this.label3.TabIndex = 7;
-            this.label3.Text = "ARMORY MANAGEMENT SYSTEM";
+            this.label3.Text = "INVENTORY MANAGEMENT SYSTEM";
             // 
             // pictureBox2
             // 
